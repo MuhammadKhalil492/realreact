@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/realreact/static/css/main.723a927e.css",
+    "main.js": "/realreact/static/js/main.23764fa2.js",
+    "static/media/sa.png": "/realreact/static/media/sa.5b742d5d61170baa5294.png",
+    "static/media/a.jpeg": "/realreact/static/media/a.36e9c0a33f6a3813a3ee.jpeg",
+    "static/media/b.jpg": "/realreact/static/media/b.6013c1ecbe5917391bf7.jpg",
+    "index.html": "/realreact/index.html",
+    "main.723a927e.css.map": "/realreact/static/css/main.723a927e.css.map",
+    "main.23764fa2.js.map": "/realreact/static/js/main.23764fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.723a927e.css",
+    "static/js/main.23764fa2.js"
+  ]
+}
